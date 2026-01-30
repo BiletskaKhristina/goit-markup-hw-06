@@ -1391,5 +1391,6 @@ color: var(--light-slate);
     }
     .logo .header-logo {
         display: block;
+        z-index: 10;
     }
 }
