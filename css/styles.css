@@ -234,14 +234,14 @@ a{
 }
 @media (min-width: 768px) {
     .hero {
-        background-image: url("../images/hero-bg-tablet.jpg");
+        background-image:url("../images/hero-bg-tablet.jpg");
 
         
     }
 }
 @media (min-width:1158px) {
     .hero {
-        background-image:  url("../images/hero-bg.jpg");
+        background-image:url("../images/hero-bg.jpg");
 
         
     }
