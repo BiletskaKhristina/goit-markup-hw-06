@@ -1388,9 +1388,7 @@ color: var(--light-slate);
     }
     .burger-btn {
         display: block;
+        margin-left: auto;
     }
-    .logo .header-logo {
-        display: block;
-        z-index: 10;
-    }
+   
 }
