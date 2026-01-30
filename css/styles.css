@@ -547,6 +547,8 @@ a{
     .team-item,
     .features-item {
         width: calc((100% - 24px) / 2);
+        padding-left: 108px;
+        padding-right: 108px;
     }
     
  }
