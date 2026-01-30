@@ -1389,7 +1389,7 @@ color: var(--light-slate);
     .burger-btn {
         display: block;
     }
-    .header-logo {
+    .logo .header-logo {
         display: block;
     }
 }
