@@ -224,7 +224,7 @@ a{
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url("../images/hero-mobile.jpg");
+    background-image: linear-gradient(rgba(46,47,66,0.7), rgba(46,47,66,0.7)), url("../images/hero-mobile.jpg");
     background-size: cover;
     background-position: center;
     background-repeat:no-repeat;
@@ -234,14 +234,14 @@ a{
 }
 @media (min-width: 768px) {
     .hero {
-        background-image:url("../images/hero-bg-tablet.jpg");
+        background-image: linear-gradient(rgba(46,47,66,0.7), rgba(46,47,66,0.7)),url("../images/hero-bg-tablet.jpg");
 
         
     }
 }
 @media (min-width:1158px) {
     .hero {
-        background-image:url("../images/hero-bg.jpg");
+        background-image: linear-gradient(rgba(46,47,66,0.7), rgba(46,47,66,0.7)), url("../images/hero-bg.jpg");
 
         
     }
