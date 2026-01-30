@@ -1374,3 +1374,19 @@ color: var(--light-slate);
         display: flex;
     }
 }
+.navigation,
+.contacts {
+    display: flex;
+}
+.burger-btn {
+    display: none;
+}
+@media (max-width: 768px) {
+    .navigation,
+    .contacts {
+        display: none;
+    }
+    .burger-btn {
+        display: block;
+    }
+}
