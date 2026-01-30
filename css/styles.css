@@ -1380,7 +1380,6 @@ color: var(--light-slate);
 }
 .burger-btn {
     display: none;
-  
 }
 @media (max-width: 768px) {
     .navigation,
@@ -1390,14 +1389,11 @@ color: var(--light-slate);
     .burger-btn {
         display: block;
         margin-left: auto;
-          border: none;
-    background: transparent;
-    cursor: pointer;
     }
     .logo .header-logo {
         display: block;
         z-index :10;
-
+        
     }
    
 }
