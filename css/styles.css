@@ -1374,21 +1374,3 @@ color: var(--light-slate);
         display: flex;
     }
 }
-.burger-btn {
-    display: none;
-
-}
-@media screen and (max-width: 768px) {
-    .burger-btn {
-        display: block;
-        position: absolute;
-        top: 24px;
-        right: 24px;
-        background-color: transparent;
-        border: none;
-        cursor: pointer;
-    }
-    .navigation {
-        display: none;
-    }
-}
