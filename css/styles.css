@@ -108,6 +108,12 @@ a{
     }
    
 }
+@media screen and (max-width: 767px) {
+    .nav-list,
+    .contacts {
+        display: none;
+    }
+}
 .navigation{
     display: flex;
     align-items: center;
