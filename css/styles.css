@@ -546,6 +546,8 @@ a{
     
 }
 .team-item{
+    display: flex;
+    flex-direction: column;
     background-color:#fff;
     border-radius: 0 0 4px 4px;
     text-align: center;
@@ -570,10 +572,10 @@ a{
     }
     
 }
- .team-item img{
-    display: block;
-    max-width: 100%;
-    border-radius: 0;
+ .team-item img {
+   width: 100%;
+   height: auto;
+   object-fit: cover;
    
  }
  .team-link{
