@@ -1346,7 +1346,7 @@ color: var(--light-slate);
     padding-top: 16px;
     padding-right: 16px;
     margin-left: auto;
-    display: block;
+    
 }
 @media screen and (min-width: 768px) {
     .menu-open-btn {
