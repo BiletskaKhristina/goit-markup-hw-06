@@ -52,9 +52,7 @@ a{
     .portfolio{
         padding: 120px 0;
     }
-    .footer{
-        padding: 100px 0;
-    }
+   
 }
 /* =============CONTAINER=========== */
  .container { 
@@ -868,7 +866,9 @@ margin: 0;
 .footer{
     background-color: #2e2f42;
     position: relative;
-    padding: 100px 0;
+    padding-top: 80px;
+    padding-bottom: 80px;
+ 
 }
 .footer-container {
     display: flex;
