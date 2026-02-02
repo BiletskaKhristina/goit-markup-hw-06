@@ -915,10 +915,15 @@ margin: 0;
         gap: 80px;
         flex-direction: row;
         align-items: baseline;
+        flex-wrap: nowrap;
     }
     .footer-left {
         display: flex;
         gap: 120px;
+        flex-direction: row;
+        align-items: baseline;
+        flex-wrap: nowrap;
+      
     }
     .footer-subscribe {
         margin-left: auto;
