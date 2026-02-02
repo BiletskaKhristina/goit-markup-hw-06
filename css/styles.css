@@ -919,6 +919,7 @@ margin: 0;
         flex-direction: row;
         align-items: baseline;
         flex-wrap: nowrap;
+        gap: 120px;
     }
     
     .footer-subscribe {
