@@ -902,11 +902,7 @@ margin: 0;
     gap: 72px;
     
 }
-.footer-left {
-    display: flex;
-    flex-direction: column;
-    gap: 24px;
-}
+
 @media screen and (min-width: 768px) and (max-width: 1157px){
     .footer-container {
         flex-direction: row;
@@ -924,14 +920,7 @@ margin: 0;
         align-items: baseline;
         flex-wrap: nowrap;
     }
-    .footer-left {
-        display: flex;
-        gap: 120px;
-        flex-direction: row;
-        align-items: baseline;
-        flex-wrap: nowrap;
-      
-    }
+    
     .footer-subscribe {
         margin-left: auto;
     }
