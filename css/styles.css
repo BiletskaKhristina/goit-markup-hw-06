@@ -920,7 +920,6 @@ margin: 0;
     .footer-container {
         display: flex;
         justify-content: space-between;
-        gap: 80px;
         flex-direction: row;
         align-items: baseline;
         flex-wrap: nowrap;
